@@ -33,3 +33,11 @@ Please make sure to update tests as appropriate.
 steps abbilden können. Wäre das vorteilhaft? Begründen Sie Ihre Antwort.
 
 A: Ja würde vorteilhaft sein bei größeren Porjekten, bei einem kleinen Projekt würde es unnötig sein. Durch die aufteilung können einzelne steps aufgeteilt werden und klarer ersichtlich.
+
+Wann können Workflows ausgelöst werden? 
+ Wann macht es in einem Projekt Sinn einen Workflow auszulösen?
+ Welche Schritte sind für Ihr Projekt automatisierbar?
+ Wie sind Workflows grundlegend aufgebaut?
+ Wozu dienen unterschiedliche Runner (Betriebssysteme) in GitHub Actions?
+ Wie können auch unterschiedliche Versionen, zB Java mittels Workflows automatisiert 
+getestet werden? (Stichwort: Matrix Strategy)
