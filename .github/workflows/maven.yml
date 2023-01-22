@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/democalc_public:latest
+          tags: ${{ secrets.USER }}/democalc_public:latest
